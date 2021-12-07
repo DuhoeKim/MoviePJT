@@ -1,4 +1,4 @@
-# SSAFY Final Project
+# MovieProject
 > https://www.youtube.com/watch?v=u6IuWsGjQpk
 > <br>
 > 🚩**CONTENT**
